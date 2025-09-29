@@ -8,7 +8,7 @@
 
 这个流程比较符合我自己的日常使用习惯。和我同样习惯的小伙伴可以下载使用。
 
-<img width="1204" height="1174" alt="image" src="https://github.com/user-attachments/assets/95a470a3-9787-4439-b6a2-7cb2cbf8d2da" />
+<img width="732" height="651" alt="image" src="https://github.com/user-attachments/assets/943fd7fc-3273-42a0-ac54-c8a070eb455b" />
 
 使用方法：
 一：将两个文件下载后，放入指定文件夹(注意替换前面的路径)：
