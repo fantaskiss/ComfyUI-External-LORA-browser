@@ -26,9 +26,9 @@ d:\ComfyUI-portal\Lorabrower(可以将lorabrower改为你想要的名字。)
         
 把其中的引号部分改为你的loras文件夹目录。
 
-三：在D:\CMS\ComfyUI\models\loras（你的实际路径）文件夹下建立与lora文件同名的*.jpg（pnp，webp等）文件以及*.txt文件，如图：
+三：在D:\CMS\ComfyUI\models\loras（你的实际路径）文件夹下建立与lora文件**同名**的*.jpg（pnp，webp等）文件以及*.txt文件，如图：
 
-<img width="387" height="106" alt="image" src="https://github.com/user-attachments/assets/2578d3c7-969b-4237-ab83-17cad6683d8f" />
+<img width="358" height="117" alt="image" src="https://github.com/user-attachments/assets/b7cb75a7-db13-42ba-9fd7-10e025a13b66" />
 
 其中，txt文件可以储存trigger等。一般图片是预览图。
 
