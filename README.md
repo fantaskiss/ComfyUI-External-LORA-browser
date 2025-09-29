@@ -11,9 +11,11 @@
 使用方法：
 一：将两个文件下载后，放入指定文件夹(注意替换前面的路径)：
 
+目录结构如下：
+
 d:\ComfyUI-portal\Lorabrower(可以将lorabrower改为你想要的名字。)
 
-目录结构如下：
+
 <img width="617" height="143" alt="image" src="https://github.com/user-attachments/assets/0b65293f-02e5-40f8-87da-fe5c551b3f2f" />
 
                       
