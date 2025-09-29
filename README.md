@@ -15,10 +15,10 @@ d:\ComfyUI-portal\Lorabrower(可以将lorabrower改为你想要的名字。)
 
 目录结构如下：
 
-# d:\-----ComfyUI-portal------ComfyUI
-                      # ------Python_embeded
-                      # ------Lorabrower（放进这里）
-                      # ------update
+   d:\-----ComfyUI-portal #------ComfyUI
+                          # ------Python_embeded
+                          # ------Lorabrower（放进这里）
+                          # ------update
                       
 二：将用文本编辑器打开loraview.py，在配置区找到：
 
